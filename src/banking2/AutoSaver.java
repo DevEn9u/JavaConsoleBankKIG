@@ -1,4 +1,4 @@
-package banking;
+package banking2;
 
 public class AutoSaver extends Thread {
 

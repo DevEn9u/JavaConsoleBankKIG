@@ -1,4 +1,4 @@
-package banking;
+package banking2;
 
 // 보통예금계좌: 최소한의 이자를 지급하는 자율 입출금식 계좌
 public class NormalAccount extends Account {
